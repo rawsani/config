@@ -89,7 +89,6 @@
               users.${username} = import ./home;
             };
           }
-
           nix-homebrew.darwinModules.nix-homebrew
           {
             nix-homebrew = {

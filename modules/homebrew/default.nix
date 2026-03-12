@@ -12,11 +12,13 @@
     masApps = {};
     casks = [
       "discord"
+      "telegram"
       "anki"
       "obsidian"
       "font-zed-mono"
       "ghostty"
       "transmission"
+      "tor-browser"
     ];
   };
 }

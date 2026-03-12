@@ -8,6 +8,7 @@
     packages = with pkgs; [
       inputs.vide.packages.${system}.vide
       texliveFull
+      google-chrome
       openssh
     ];
 

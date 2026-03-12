@@ -10,6 +10,7 @@
         home = "/Users/${username}";
         shell = pkgs.bash;
         createHome = true;
+        # uid = 501;
       };
     };
   };
