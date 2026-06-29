@@ -43,7 +43,7 @@
       url = "github:nix-community/nix-vscode-extensions";
     };
     vide = {
-      url = "github:rienz0/vide";
+      url = "github:rawsani/vide";
       inputs = {
         nixpkgs = {
           follows = "nixpkgs";

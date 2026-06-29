@@ -11,7 +11,10 @@
     };
     masApps = {};
     casks = [
+      "element"
       "discord"
+      "firefox"
+      "visual-studio-code"
       "telegram"
       "anki"
       "obsidian"
@@ -19,6 +22,7 @@
       "ghostty"
       "transmission"
       "tor-browser"
+      "virtualbox"
     ];
   };
 }

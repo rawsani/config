@@ -6,8 +6,8 @@
       ignores = ["*.swp"];
       settings = {
         user = {
-          name = "rienz0";
-          email = "rienzzo@proton.me";
+          name = "rawsani";
+          email = "rawsani@proton.me";
         };
         alias = {
           c = "commit -m";

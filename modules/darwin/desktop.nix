@@ -34,13 +34,11 @@
           "/Applications/Safari.app"
           "/Applications/Discord.app"
           "/Applications/Telegram.app"
-          "/System/Applications/Messages.app"
-          "/System/Applications/Notes.app"
+          "/Applications/UlyssesMac.app"
           "/Applications/Obsidian.app"
-          "/System/Applications/Calendar.app"
-          "/Applications/Anki.app"
+          "/System/Applications/Messages.app"
           "/Applications/Ghostty.app"
-          "/Users/lucas/Applications/Home Manager Apps/Visual Studio Code.app"
+          "Applications/Visual Studio Code.app"
         ];
       };
       finder = {
